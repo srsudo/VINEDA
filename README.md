@@ -7,7 +7,7 @@ The algorithm is fully described in the following manuscript:
 Vineda: Volcanic Infrasound Explosions Detector Algorithm. Frontiers in Earth Science (2019). Bueno, A., Diaz-Moreno, A., Alvarez, I., De la Torre, A., Lamb, O.D., Zuccarello, L. and De Angelis, S.  
 ``
 
-If used as part of any research work or data processing pipeline, we would appreciate citations. 
+If used as part of any research work or data processing pipeline, we would appreciate if the work is cited.
 
 ## Installation & Features (Python)
 
