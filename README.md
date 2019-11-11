@@ -11,8 +11,7 @@ If used as part of any research work or data processing pipeline, we would appre
 
 ## Installation & Features (Python)
 
-- VINEDA runs entirely in Python (2.7 and 3.0) and Matlab 2018. In Python, the library can be directly imported as an 
-independent Python package, or interfaced with conda / docker environments.
+- VINEDA runs entirely in Python (2.7 and 3.0) and Matlab 2018. In Python, the library can be imported as an independent Python package, or interfaced with conda / docker environments.
 
 - Dependencies:
     - Numpy >= 1.10.0
